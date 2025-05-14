@@ -1,2 +1,2 @@
 # ejerciciosDiaTres
-ejercicios dia 3
+ejercicios semana 1 dia 3
